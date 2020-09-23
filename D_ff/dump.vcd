@@ -1,0 +1,62 @@
+$date
+	Wed Aug 12 02:10:18 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb $end
+$var wire 1 ! Q $end
+$var reg 1 " D $end
+$var reg 1 # clk $end
+$var reg 1 $ reset $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+x$
+0#
+x"
+x!
+$end
+#2
+0!
+1$
+0"
+#5
+1#
+#10
+0#
+#12
+1"
+#15
+1!
+1#
+#20
+0#
+#22
+0!
+0$
+#25
+1#
+#27
+1!
+1$
+#30
+0#
+#32
+0"
+#35
+0!
+1#
+#37
+0$
+1"
+#40
+0#
+#45
+1#
+#50
+0#
